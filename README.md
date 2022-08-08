@@ -3,7 +3,7 @@
 <h1 align="center">{Error 404 page}</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="[http://devchallenges.io](https://finzyphinzy.github.io/DevChallenges/)" target="_blank">Devchallenges.io</a>.
+   Solution for a challenge from  <a href="https://finzyphinzy.github.io/DevChallenges/" target="_blank">Devchallenges.io</a>.
 </div>
 
 <div align="center">
